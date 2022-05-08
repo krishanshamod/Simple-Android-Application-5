@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712790084413",
+    "project_id": "simple-android-application-5",
+    "storage_bucket": "simple-android-application-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712790084413:android:f0d07e5515c7fdcf15d354",
+        "android_client_info": {
+          "package_name": "com.krishanshamod.simple_android_application_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712790084413-es1mtp2gu7mctrsletr78huketnpml2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5f04p_gwsCBvFHlkg0-yIVgFpcZY8pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712790084413-es1mtp2gu7mctrsletr78huketnpml2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
